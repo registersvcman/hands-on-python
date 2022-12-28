@@ -1,73 +1,203 @@
 [
   {
-    "name": "Emil",
-    "surname": "von Behring",
-    "born": "1854-03-15",
-    "died": "1917-03-31",
+    "name": "Albert A.",
+    "surname": "Michelson",
+    "born": "1852-12-19",
+    "died": "1931-05-09",
     "birthplace": "Prussia (now Poland)",
-    "motivation": "for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths",
-    "category": "medicine",
-    "year": "1901"
+    "motivation": "for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid",
+    "category": "physics",
+    "year": "1907"
   },
   {
-    "name": "Ronald",
-    "surname": "Ross",
-    "born": "1857-05-13",
-    "died": "1932-09-16",
-    "birthplace": "India",
-    "motivation": "for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it",
-    "category": "medicine",
-    "year": "1902"
-  },
-  {
-    "name": "Niels Ryberg",
-    "surname": "Finsen",
-    "born": "1860-12-15",
-    "died": "1904-09-24",
-    "birthplace": "Faroe Islands (Denmark)",
-    "motivation": "in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science",
-    "category": "medicine",
-    "year": "1903"
-  },
-  {
-    "name": "Ivan",
-    "surname": "Pavlov",
-    "born": "1849-09-14",
-    "died": "1936-02-27",
-    "birthplace": "Russia",
-    "motivation": "in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged",
-    "category": "medicine",
-    "year": "1904"
-  },
-  {
-    "name": "Robert",
-    "surname": "Koch",
-    "born": "1843-12-11",
-    "died": "1910-05-27",
+    "name": "Albert",
+    "surname": "Einstein",
+    "born": "1879-03-14",
+    "died": "1955-04-18",
     "birthplace": "Germany",
-    "motivation": "for his investigations and discoveries in relation to tuberculosis",
-    "category": "medicine",
+    "motivation": "for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect",
+    "category": "physics",
+    "year": "1921"
+  },
+  {
+    "name": "Arthur H.",
+    "surname": "Compton",
+    "born": "1892-09-10",
+    "died": "1962-03-15",
+    "birthplace": "USA",
+    "motivation": "for his discovery of the effect named after him",
+    "category": "physics",
+    "year": "1927"
+  },
+  {
+    "name": "Aleksandr M.",
+    "surname": "Prokhorov",
+    "born": "1916-07-11",
+    "died": "2002-01-08",
+    "birthplace": "Australia",
+    "motivation": "for fundamental work in the field of quantum electronics, which has led to the construction of oscillators and amplifiers based on the maser-laser principle",
+    "category": "physics",
+    "year": "1964"
+  },
+  {
+    "name": "Alfred",
+    "surname": "Kastler",
+    "born": "1902-05-03",
+    "died": "1984-01-07",
+    "birthplace": "Germany (now France)",
+    "motivation": "for the discovery and development of optical methods for studying Hertzian resonances in atoms",
+    "category": "physics",
+    "year": "1966"
+  },
+  {
+    "name": "Antony",
+    "surname": "Hewish",
+    "born": "1924-05-11",
+    "died": "2021-09-13",
+    "birthplace": "United Kingdom",
+    "motivation": "for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars",
+    "category": "physics",
+    "year": "1974"
+  },
+  {
+    "name": "Aage N.",
+    "surname": "Bohr",
+    "born": "1922-06-19",
+    "died": "2009-09-08",
+    "birthplace": "Denmark",
+    "motivation": "for the discovery of the connection between collective motion and particle motion in atomic nuclei and the development of the theory of the structure of the atomic nucleus based on this connection",
+    "category": "physics",
+    "year": "1975"
+  },
+  {
+    "name": "Arno",
+    "surname": "Penzias",
+    "born": "1933-04-26",
+    "died": "0000-00-00",
+    "birthplace": "Germany",
+    "motivation": "for their discovery of cosmic microwave background radiation",
+    "category": "physics",
+    "year": "1978"
+  },
+  {
+    "name": "Abdus",
+    "surname": "Salam",
+    "born": "1926-01-29",
+    "died": "1996-11-21",
+    "birthplace": "India (now Pakistan)",
+    "motivation": "for their contributions to the theory of the unified weak and electromagnetic interaction between elementary particles, including, inter alia, the prediction of the weak neutral current",
+    "category": "physics",
+    "year": "1979"
+  },
+  {
+    "name": "Arthur L.",
+    "surname": "Schawlow",
+    "born": "1921-05-05",
+    "died": "1999-04-28",
+    "birthplace": "USA",
+    "motivation": "for their contribution to the development of laser spectroscopy",
+    "category": "physics",
+    "year": "1981"
+  },
+  {
+    "name": "Adolf",
+    "surname": "von Baeyer",
+    "born": "1835-10-31",
+    "died": "1917-08-20",
+    "birthplace": "Prussia (now Germany)",
+    "motivation": "in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds",
+    "category": "chemistry",
     "year": "1905"
   },
   {
-    "name": "Camillo",
-    "surname": "Golgi",
-    "born": "1843-07-07",
-    "died": "1926-01-21",
-    "birthplace": "Italy",
-    "motivation": "in recognition of their work on the structure of the nervous system",
-    "category": "medicine",
-    "year": "1906"
+    "name": "Alfred",
+    "surname": "Werner",
+    "born": "1866-12-12",
+    "died": "1919-11-15",
+    "birthplace": "France",
+    "motivation": "in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry",
+    "category": "chemistry",
+    "year": "1913"
   },
   {
-    "name": "Santiago",
-    "surname": "Ram\u00f3n y Cajal",
-    "born": "1852-05-01",
-    "died": "1934-10-17",
-    "birthplace": "Spain",
-    "motivation": "in recognition of their work on the structure of the nervous system",
-    "category": "medicine",
-    "year": "1906"
+    "name": "Adolf",
+    "surname": "Windaus",
+    "born": "1876-12-25",
+    "died": "1959-06-09",
+    "birthplace": "Germany",
+    "motivation": "for the services rendered through his research into the constitution of the sterols and their connection with the vitamins",
+    "category": "chemistry",
+    "year": "1928"
+  },
+  {
+    "name": "Arthur",
+    "surname": "Harden",
+    "born": "1865-10-12",
+    "died": "1940-06-17",
+    "birthplace": "United Kingdom",
+    "motivation": "for their investigations on the fermentation of sugar and fermentative enzymes",
+    "category": "chemistry",
+    "year": "1929"
+  },
+  {
+    "name": "Adolf",
+    "surname": "Butenandt",
+    "born": "1903-03-24",
+    "died": "1995-01-18",
+    "birthplace": "Germany",
+    "motivation": "for his work on sex hormones",
+    "category": "chemistry",
+    "year": "1939"
+  },
+  {
+    "name": "Artturi",
+    "surname": "Virtanen",
+    "born": "1895-01-15",
+    "died": "1973-11-11",
+    "birthplace": "Russian Empire (now Finland)",
+    "motivation": "for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method",
+    "category": "chemistry",
+    "year": "1945"
+  },
+  {
+    "name": "Arne",
+    "surname": "Tiselius",
+    "born": "1902-08-10",
+    "died": "1971-10-29",
+    "birthplace": "Sweden",
+    "motivation": "for his research on electrophoresis and adsorption analysis, especially for his discoveries concerning the complex nature of the serum proteins",
+    "category": "chemistry",
+    "year": "1948"
+  },
+  {
+    "name": "Archer J.P.",
+    "surname": "Martin",
+    "born": "1910-03-01",
+    "died": "2002-07-28",
+    "birthplace": "United Kingdom",
+    "motivation": "for their invention of partition chromatography",
+    "category": "chemistry",
+    "year": "1952"
+  },
+  {
+    "name": "Aaron",
+    "surname": "Klug",
+    "born": "1926-08-11",
+    "died": "2018-11-20",
+    "birthplace": "Lithuania",
+    "motivation": "for his development of crystallographic electron microscopy and his structural elucidation of biologically important nucleic acid-protein complexes",
+    "category": "chemistry",
+    "year": "1982"
+  },
+  {
+    "name": "Ahmed",
+    "surname": "Zewail",
+    "born": "1946-02-26",
+    "died": "2016-08-02",
+    "birthplace": "Egypt",
+    "motivation": "for his studies of the transition states of chemical reactions using femtosecond spectroscopy",
+    "category": "chemistry",
+    "year": "1999"
   },
   {
     "name": "Alphonse",
@@ -78,36 +208,6 @@
     "motivation": "in recognition of his work on the role played by protozoa in causing diseases",
     "category": "medicine",
     "year": "1907"
-  },
-  {
-    "name": "Ilya",
-    "surname": "Mechnikov",
-    "born": "1845-05-15",
-    "died": "1916-07-15",
-    "birthplace": "Russian Empire (now Ukraine)",
-    "motivation": "in recognition of their work on immunity",
-    "category": "medicine",
-    "year": "1908"
-  },
-  {
-    "name": "Paul",
-    "surname": "Ehrlich",
-    "born": "1854-03-14",
-    "died": "1915-08-20",
-    "birthplace": "Prussia (now Poland)",
-    "motivation": "in recognition of their work on immunity",
-    "category": "medicine",
-    "year": "1908"
-  },
-  {
-    "name": "Theodor",
-    "surname": "Kocher",
-    "born": "1841-08-25",
-    "died": "1917-07-27",
-    "birthplace": "Switzerland",
-    "motivation": "for his work on the physiology, pathology and surgery of the thyroid gland",
-    "category": "medicine",
-    "year": "1909"
   },
   {
     "name": "Albrecht",
@@ -140,36 +240,6 @@
     "year": "1912"
   },
   {
-    "name": "Charles",
-    "surname": "Richet",
-    "born": "1850-08-26",
-    "died": "1935-12-04",
-    "birthplace": "France",
-    "motivation": "in recognition of his work on anaphylaxis",
-    "category": "medicine",
-    "year": "1913"
-  },
-  {
-    "name": "Robert",
-    "surname": "B\u00e1r\u00e1ny",
-    "born": "1876-04-22",
-    "died": "1936-04-08",
-    "birthplace": "Austria",
-    "motivation": "for his work on the physiology and pathology of the vestibular apparatus",
-    "category": "medicine",
-    "year": "1914"
-  },
-  {
-    "name": "Jules",
-    "surname": "Bordet",
-    "born": "1870-06-13",
-    "died": "1961-04-06",
-    "birthplace": "Belgium",
-    "motivation": "for his discoveries relating to immunity",
-    "category": "medicine",
-    "year": "1919"
-  },
-  {
     "name": "August",
     "surname": "Krogh",
     "born": "1874-11-15",
@@ -190,206 +260,6 @@
     "year": "1922"
   },
   {
-    "name": "Otto",
-    "surname": "Meyerhof",
-    "born": "1884-04-12",
-    "died": "1951-10-06",
-    "birthplace": "Germany",
-    "motivation": "for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle",
-    "category": "medicine",
-    "year": "1922"
-  },
-  {
-    "name": "Frederick G.",
-    "surname": "Banting",
-    "born": "1891-11-14",
-    "died": "1941-02-21",
-    "birthplace": "Canada",
-    "motivation": "for the discovery of insulin",
-    "category": "medicine",
-    "year": "1923"
-  },
-  {
-    "name": "John",
-    "surname": "Macleod",
-    "born": "1876-09-06",
-    "died": "1935-03-16",
-    "birthplace": "Scotland",
-    "motivation": "for the discovery of insulin",
-    "category": "medicine",
-    "year": "1923"
-  },
-  {
-    "name": "Willem",
-    "surname": "Einthoven",
-    "born": "1860-05-21",
-    "died": "1927-09-29",
-    "birthplace": "Java, Dutch East Indies (now Indonesia)",
-    "motivation": "for his discovery of the mechanism of the electrocardiogram",
-    "category": "medicine",
-    "year": "1924"
-  },
-  {
-    "name": "Johannes",
-    "surname": "Fibiger",
-    "born": "1867-04-23",
-    "died": "1928-01-30",
-    "birthplace": "Denmark",
-    "motivation": "for his discovery of the Spiroptera carcinoma",
-    "category": "medicine",
-    "year": "1926"
-  },
-  {
-    "name": "Julius",
-    "surname": "Wagner-Jauregg",
-    "born": "1857-03-07",
-    "died": "1940-09-27",
-    "birthplace": "Austria",
-    "motivation": "for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica",
-    "category": "medicine",
-    "year": "1927"
-  },
-  {
-    "name": "Charles",
-    "surname": "Nicolle",
-    "born": "1866-09-21",
-    "died": "1936-02-28",
-    "birthplace": "France",
-    "motivation": "for his work on typhus",
-    "category": "medicine",
-    "year": "1928"
-  },
-  {
-    "name": "Christiaan",
-    "surname": "Eijkman",
-    "born": "1858-08-11",
-    "died": "1930-11-05",
-    "birthplace": "the Netherlands",
-    "motivation": "for his discovery of the antineuritic vitamin",
-    "category": "medicine",
-    "year": "1929"
-  },
-  {
-    "name": "Sir Frederick",
-    "surname": "Hopkins",
-    "born": "1861-06-20",
-    "died": "1947-05-16",
-    "birthplace": "United Kingdom",
-    "motivation": "for his discovery of the growth-stimulating vitamins",
-    "category": "medicine",
-    "year": "1929"
-  },
-  {
-    "name": "Karl",
-    "surname": "Landsteiner",
-    "born": "1868-06-14",
-    "died": "1943-06-26",
-    "birthplace": "Austrian Empire (now Austria)",
-    "motivation": "for his discovery of human blood groups",
-    "category": "medicine",
-    "year": "1930"
-  },
-  {
-    "name": "Otto",
-    "surname": "Warburg",
-    "born": "1883-10-08",
-    "died": "1970-08-01",
-    "birthplace": "Germany",
-    "motivation": "for his discovery of the nature and mode of action of the respiratory enzyme",
-    "category": "medicine",
-    "year": "1931"
-  },
-  {
-    "name": "Sir Charles",
-    "surname": "Sherrington",
-    "born": "1857-11-27",
-    "died": "1952-03-04",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries regarding the functions of neurons",
-    "category": "medicine",
-    "year": "1932"
-  },
-  {
-    "name": "Edgar",
-    "surname": "Adrian",
-    "born": "1889-11-30",
-    "died": "1977-08-08",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries regarding the functions of neurons",
-    "category": "medicine",
-    "year": "1932"
-  },
-  {
-    "name": "Thomas H.",
-    "surname": "Morgan",
-    "born": "1866-09-25",
-    "died": "1945-12-04",
-    "birthplace": "USA",
-    "motivation": "for his discoveries concerning the role played by the chromosome in heredity",
-    "category": "medicine",
-    "year": "1933"
-  },
-  {
-    "name": "George H.",
-    "surname": "Whipple",
-    "born": "1878-08-28",
-    "died": "1976-02-01",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning liver therapy in cases of anaemia",
-    "category": "medicine",
-    "year": "1934"
-  },
-  {
-    "name": "George R.",
-    "surname": "Minot",
-    "born": "1885-12-02",
-    "died": "1950-02-25",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning liver therapy in cases of anaemia",
-    "category": "medicine",
-    "year": "1934"
-  },
-  {
-    "name": "William P.",
-    "surname": "Murphy",
-    "born": "1892-02-06",
-    "died": "1987-10-09",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning liver therapy in cases of anaemia",
-    "category": "medicine",
-    "year": "1934"
-  },
-  {
-    "name": "Hans",
-    "surname": "Spemann",
-    "born": "1869-06-27",
-    "died": "1941-09-12",
-    "birthplace": "W\u00fcrttemberg (now Germany)",
-    "motivation": "for his discovery of the organizer effect in embryonic development",
-    "category": "medicine",
-    "year": "1935"
-  },
-  {
-    "name": "Sir Henry",
-    "surname": "Dale",
-    "born": "1875-06-09",
-    "died": "1968-07-23",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries relating to chemical transmission of nerve impulses",
-    "category": "medicine",
-    "year": "1936"
-  },
-  {
-    "name": "Otto",
-    "surname": "Loewi",
-    "born": "1873-06-03",
-    "died": "1961-12-25",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries relating to chemical transmission of nerve impulses",
-    "category": "medicine",
-    "year": "1936"
-  },
-  {
     "name": "Albert",
     "surname": "Szent-Gy\u00f6rgyi",
     "born": "1893-09-16",
@@ -398,276 +268,6 @@
     "motivation": "for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid",
     "category": "medicine",
     "year": "1937"
-  },
-  {
-    "name": "Corneille",
-    "surname": "Heymans",
-    "born": "1892-03-28",
-    "died": "1968-07-18",
-    "birthplace": "Belgium",
-    "motivation": "for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration",
-    "category": "medicine",
-    "year": "1938"
-  },
-  {
-    "name": "Gerhard",
-    "surname": "Domagk",
-    "born": "1895-10-30",
-    "died": "1964-04-24",
-    "birthplace": "Germany (now Poland)",
-    "motivation": "for the discovery of the antibacterial effects of prontosil",
-    "category": "medicine",
-    "year": "1939"
-  },
-  {
-    "name": "Henrik",
-    "surname": "Dam",
-    "born": "1895-02-21",
-    "died": "1976-04-17",
-    "birthplace": "Denmark",
-    "motivation": "for his discovery of vitamin K",
-    "category": "medicine",
-    "year": "1943"
-  },
-  {
-    "name": "Edward A.",
-    "surname": "Doisy",
-    "born": "1893-11-13",
-    "died": "1986-10-23",
-    "birthplace": "USA",
-    "motivation": "for his discovery of the chemical nature of vitamin K",
-    "category": "medicine",
-    "year": "1943"
-  },
-  {
-    "name": "Joseph",
-    "surname": "Erlanger",
-    "born": "1874-01-05",
-    "died": "1965-12-05",
-    "birthplace": "USA",
-    "motivation": "for their discoveries relating to the highly differentiated functions of single nerve fibres",
-    "category": "medicine",
-    "year": "1944"
-  },
-  {
-    "name": "Herbert S.",
-    "surname": "Gasser",
-    "born": "1888-07-05",
-    "died": "1963-05-11",
-    "birthplace": "USA",
-    "motivation": "for their discoveries relating to the highly differentiated functions of single nerve fibres",
-    "category": "medicine",
-    "year": "1944"
-  },
-  {
-    "name": "Sir Alexander",
-    "surname": "Fleming",
-    "born": "1881-08-06",
-    "died": "1955-03-11",
-    "birthplace": "Scotland",
-    "motivation": "for the discovery of penicillin and its curative effect in various infectious diseases",
-    "category": "medicine",
-    "year": "1945"
-  },
-  {
-    "name": "Ernst B.",
-    "surname": "Chain",
-    "born": "1906-06-19",
-    "died": "1979-08-12",
-    "birthplace": "Germany",
-    "motivation": "for the discovery of penicillin and its curative effect in various infectious diseases",
-    "category": "medicine",
-    "year": "1945"
-  },
-  {
-    "name": "Sir Howard",
-    "surname": "Florey",
-    "born": "1898-09-24",
-    "died": "1968-02-21",
-    "birthplace": "Australia",
-    "motivation": "for the discovery of penicillin and its curative effect in various infectious diseases",
-    "category": "medicine",
-    "year": "1945"
-  },
-  {
-    "name": "Hermann J.",
-    "surname": "Muller",
-    "born": "1890-12-21",
-    "died": "1967-04-05",
-    "birthplace": "USA",
-    "motivation": "for the discovery of the production of mutations by means of X-ray irradiation",
-    "category": "medicine",
-    "year": "1946"
-  },
-  {
-    "name": "Carl",
-    "surname": "Cori",
-    "born": "1896-12-05",
-    "died": "1984-10-20",
-    "birthplace": "Austria-Hungary (now Czech Republic)",
-    "motivation": "for their discovery of the course of the catalytic conversion of glycogen",
-    "category": "medicine",
-    "year": "1947"
-  },
-  {
-    "name": "Gerty",
-    "surname": "Cori",
-    "born": "1896-08-15",
-    "died": "1957-10-26",
-    "birthplace": "Austria-Hungary (now Czech Republic)",
-    "motivation": "for their discovery of the course of the catalytic conversion of glycogen",
-    "category": "medicine",
-    "year": "1947"
-  },
-  {
-    "name": "Bernardo",
-    "surname": "Houssay",
-    "born": "1887-04-10",
-    "died": "1971-09-21",
-    "birthplace": "Argentina",
-    "motivation": "for his discovery of the part played by the hormone of the anterior pituitary lobe in the metabolism of sugar",
-    "category": "medicine",
-    "year": "1947"
-  },
-  {
-    "name": "Paul",
-    "surname": "M\u00fcller",
-    "born": "1899-01-12",
-    "died": "1965-10-12",
-    "birthplace": "Switzerland",
-    "motivation": "for his discovery of the high efficiency of DDT as a contact poison against several arthropods",
-    "category": "medicine",
-    "year": "1948"
-  },
-  {
-    "name": "Walter",
-    "surname": "Hess",
-    "born": "1881-03-17",
-    "died": "1973-08-12",
-    "birthplace": "Switzerland",
-    "motivation": "for his discovery of the functional organization of the interbrain as a coordinator of the activities of the internal organs",
-    "category": "medicine",
-    "year": "1949"
-  },
-  {
-    "name": "Egas",
-    "surname": "Moniz",
-    "born": "1874-11-29",
-    "died": "1955-12-13",
-    "birthplace": "Portugal",
-    "motivation": "for his discovery of the therapeutic value of leucotomy in certain psychoses",
-    "category": "medicine",
-    "year": "1949"
-  },
-  {
-    "name": "Edward C.",
-    "surname": "Kendall",
-    "born": "1886-03-08",
-    "died": "1972-05-04",
-    "birthplace": "USA",
-    "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
-    "category": "medicine",
-    "year": "1950"
-  },
-  {
-    "name": "Tadeus",
-    "surname": "Reichstein",
-    "born": "1897-07-20",
-    "died": "1996-08-01",
-    "birthplace": "Poland",
-    "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
-    "category": "medicine",
-    "year": "1950"
-  },
-  {
-    "name": "Philip S.",
-    "surname": "Hench",
-    "born": "1896-02-28",
-    "died": "1965-03-30",
-    "birthplace": "USA",
-    "motivation": "for their discoveries relating to the hormones of the adrenal cortex, their structure and biological effects",
-    "category": "medicine",
-    "year": "1950"
-  },
-  {
-    "name": "Max",
-    "surname": "Theiler",
-    "born": "1899-01-30",
-    "died": "1972-08-11",
-    "birthplace": "South Africa",
-    "motivation": "for his discoveries concerning yellow fever and how to combat it",
-    "category": "medicine",
-    "year": "1951"
-  },
-  {
-    "name": "Selman A.",
-    "surname": "Waksman",
-    "born": "1888-07-22",
-    "died": "1973-08-16",
-    "birthplace": "Russian Empire (now Ukraine)",
-    "motivation": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis",
-    "category": "medicine",
-    "year": "1952"
-  },
-  {
-    "name": "Hans",
-    "surname": "Krebs",
-    "born": "1900-08-25",
-    "died": "1981-11-22",
-    "birthplace": "Germany",
-    "motivation": "for his discovery of the citric acid cycle",
-    "category": "medicine",
-    "year": "1953"
-  },
-  {
-    "name": "Fritz",
-    "surname": "Lipmann",
-    "born": "1899-06-12",
-    "died": "1986-07-24",
-    "birthplace": "Germany (now Russia)",
-    "motivation": "for his discovery of co-enzyme A and its importance for intermediary metabolism",
-    "category": "medicine",
-    "year": "1953"
-  },
-  {
-    "name": "John F.",
-    "surname": "Enders",
-    "born": "1897-02-10",
-    "died": "1985-09-08",
-    "birthplace": "USA",
-    "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
-    "category": "medicine",
-    "year": "1954"
-  },
-  {
-    "name": "Thomas H.",
-    "surname": "Weller",
-    "born": "1915-06-15",
-    "died": "2008-08-23",
-    "birthplace": "USA",
-    "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
-    "category": "medicine",
-    "year": "1954"
-  },
-  {
-    "name": "Frederick C.",
-    "surname": "Robbins",
-    "born": "1916-08-25",
-    "died": "2003-08-04",
-    "birthplace": "USA",
-    "motivation": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue",
-    "category": "medicine",
-    "year": "1954"
-  },
-  {
-    "name": "Hugo",
-    "surname": "Theorell",
-    "born": "1903-07-06",
-    "died": "1982-08-15",
-    "birthplace": "Sweden",
-    "motivation": "for his discoveries concerning the nature and mode of action of oxidation enzymes",
-    "category": "medicine",
-    "year": "1955"
   },
   {
     "name": "Andr\u00e9 F.",
@@ -680,76 +280,6 @@
     "year": "1956"
   },
   {
-    "name": "Werner",
-    "surname": "Forssmann",
-    "born": "1904-08-29",
-    "died": "1979-06-01",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system",
-    "category": "medicine",
-    "year": "1956"
-  },
-  {
-    "name": "Dickinson W.",
-    "surname": "Richards",
-    "born": "1895-10-30",
-    "died": "1973-02-23",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system",
-    "category": "medicine",
-    "year": "1956"
-  },
-  {
-    "name": "Daniel",
-    "surname": "Bovet",
-    "born": "1907-03-23",
-    "died": "1992-04-08",
-    "birthplace": "Switzerland",
-    "motivation": "for his discoveries relating to synthetic compounds that inhibit the action of certain body substances, and especially their action on the vascular system and the skeletal muscles",
-    "category": "medicine",
-    "year": "1957"
-  },
-  {
-    "name": "George",
-    "surname": "Beadle",
-    "born": "1903-10-22",
-    "died": "1989-06-09",
-    "birthplace": "USA",
-    "motivation": "for their discovery that genes act by regulating definite chemical events",
-    "category": "medicine",
-    "year": "1958"
-  },
-  {
-    "name": "Edward",
-    "surname": "Tatum",
-    "born": "1909-12-14",
-    "died": "1975-11-05",
-    "birthplace": "USA",
-    "motivation": "for their discovery that genes act by regulating definite chemical events",
-    "category": "medicine",
-    "year": "1958"
-  },
-  {
-    "name": "Joshua",
-    "surname": "Lederberg",
-    "born": "1925-05-23",
-    "died": "2008-02-02",
-    "birthplace": "USA",
-    "motivation": "for his discoveries concerning genetic recombination and the organization of the genetic material of bacteria",
-    "category": "medicine",
-    "year": "1958"
-  },
-  {
-    "name": "Severo",
-    "surname": "Ochoa",
-    "born": "1905-09-24",
-    "died": "1993-11-01",
-    "birthplace": "Spain",
-    "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid",
-    "category": "medicine",
-    "year": "1959"
-  },
-  {
     "name": "Arthur",
     "surname": "Kornberg",
     "born": "1918-03-03",
@@ -758,76 +288,6 @@
     "motivation": "for their discovery of the mechanisms in the biological synthesis of ribonucleic acid and deoxyribonucleic acid",
     "category": "medicine",
     "year": "1959"
-  },
-  {
-    "name": "Sir Frank Macfarlane",
-    "surname": "Burnet",
-    "born": "1899-09-03",
-    "died": "1985-08-31",
-    "birthplace": "Australia",
-    "motivation": "for discovery of acquired immunological tolerance",
-    "category": "medicine",
-    "year": "1960"
-  },
-  {
-    "name": "Peter",
-    "surname": "Medawar",
-    "born": "1915-02-28",
-    "died": "1987-10-02",
-    "birthplace": "Brazil",
-    "motivation": "for discovery of acquired immunological tolerance",
-    "category": "medicine",
-    "year": "1960"
-  },
-  {
-    "name": "Georg",
-    "surname": "von B\u00e9k\u00e9sy",
-    "born": "1899-06-03",
-    "died": "1972-06-13",
-    "birthplace": "Hungary",
-    "motivation": "for his discoveries of the physical mechanism of stimulation within the cochlea",
-    "category": "medicine",
-    "year": "1961"
-  },
-  {
-    "name": "Francis",
-    "surname": "Crick",
-    "born": "1916-06-08",
-    "died": "2004-07-28",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
-    "category": "medicine",
-    "year": "1962"
-  },
-  {
-    "name": "James",
-    "surname": "Watson",
-    "born": "1928-04-06",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
-    "category": "medicine",
-    "year": "1962"
-  },
-  {
-    "name": "Maurice",
-    "surname": "Wilkins",
-    "born": "1916-12-15",
-    "died": "2004-10-05",
-    "birthplace": "New Zealand",
-    "motivation": "for their discoveries concerning the molecular structure of nucleic acids and its significance for information transfer in living material",
-    "category": "medicine",
-    "year": "1962"
-  },
-  {
-    "name": "Sir John",
-    "surname": "Eccles",
-    "born": "1903-01-27",
-    "died": "1997-05-02",
-    "birthplace": "Australia",
-    "motivation": "for their discoveries concerning the ionic mechanisms involved in excitation and inhibition in the peripheral and central portions of the nerve cell membrane",
-    "category": "medicine",
-    "year": "1963"
   },
   {
     "name": "Alan",
@@ -850,36 +310,6 @@
     "year": "1963"
   },
   {
-    "name": "Konrad",
-    "surname": "Bloch",
-    "born": "1912-01-21",
-    "died": "2000-10-15",
-    "birthplace": "Germany (now Poland)",
-    "motivation": "for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism",
-    "category": "medicine",
-    "year": "1964"
-  },
-  {
-    "name": "Feodor",
-    "surname": "Lynen",
-    "born": "1911-04-06",
-    "died": "1979-08-06",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning the mechanism and regulation of the cholesterol and fatty acid metabolism",
-    "category": "medicine",
-    "year": "1964"
-  },
-  {
-    "name": "Fran\u00e7ois",
-    "surname": "Jacob",
-    "born": "1920-06-17",
-    "died": "2013-04-19",
-    "birthplace": "France",
-    "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
-    "category": "medicine",
-    "year": "1965"
-  },
-  {
     "name": "Andr\u00e9",
     "surname": "Lwoff",
     "born": "1902-05-08",
@@ -888,106 +318,6 @@
     "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
     "category": "medicine",
     "year": "1965"
-  },
-  {
-    "name": "Jacques",
-    "surname": "Monod",
-    "born": "1910-02-09",
-    "died": "1976-05-31",
-    "birthplace": "France",
-    "motivation": "for their discoveries concerning genetic control of enzyme and virus synthesis",
-    "category": "medicine",
-    "year": "1965"
-  },
-  {
-    "name": "Peyton",
-    "surname": "Rous",
-    "born": "1879-10-05",
-    "died": "1970-02-16",
-    "birthplace": "USA",
-    "motivation": "for his discovery of tumour-inducing viruses",
-    "category": "medicine",
-    "year": "1966"
-  },
-  {
-    "name": "Charles B.",
-    "surname": "Huggins",
-    "born": "1901-09-22",
-    "died": "1997-01-12",
-    "birthplace": "Canada",
-    "motivation": "for his discoveries concerning hormonal treatment of prostatic cancer",
-    "category": "medicine",
-    "year": "1966"
-  },
-  {
-    "name": "Ragnar",
-    "surname": "Granit",
-    "born": "1900-10-30",
-    "died": "1991-03-12",
-    "birthplace": "Russian Empire (now Finland)",
-    "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
-    "category": "medicine",
-    "year": "1967"
-  },
-  {
-    "name": "Keffer",
-    "surname": "Hartline",
-    "born": "1903-12-22",
-    "died": "1983-03-17",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
-    "category": "medicine",
-    "year": "1967"
-  },
-  {
-    "name": "George",
-    "surname": "Wald",
-    "born": "1906-11-18",
-    "died": "1997-04-12",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the primary physiological and chemical visual processes in the eye",
-    "category": "medicine",
-    "year": "1967"
-  },
-  {
-    "name": "Robert W.",
-    "surname": "Holley",
-    "born": "1922-01-28",
-    "died": "1993-02-11",
-    "birthplace": "USA",
-    "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
-    "category": "medicine",
-    "year": "1968"
-  },
-  {
-    "name": "H. Gobind",
-    "surname": "Khorana",
-    "born": "1922-01-09",
-    "died": "2011-11-09",
-    "birthplace": "India",
-    "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
-    "category": "medicine",
-    "year": "1968"
-  },
-  {
-    "name": "Marshall W.",
-    "surname": "Nirenberg",
-    "born": "1927-04-10",
-    "died": "2010-01-15",
-    "birthplace": "USA",
-    "motivation": "for their interpretation of the genetic code and its function in protein synthesis",
-    "category": "medicine",
-    "year": "1968"
-  },
-  {
-    "name": "Max",
-    "surname": "Delbr\u00fcck",
-    "born": "1906-09-04",
-    "died": "1981-03-09",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses",
-    "category": "medicine",
-    "year": "1969"
   },
   {
     "name": "Alfred D.",
@@ -1000,106 +330,6 @@
     "year": "1969"
   },
   {
-    "name": "Salvador E.",
-    "surname": "Luria",
-    "born": "1912-08-13",
-    "died": "1991-02-06",
-    "birthplace": "Italy",
-    "motivation": "for their discoveries concerning the replication mechanism and the genetic structure of viruses",
-    "category": "medicine",
-    "year": "1969"
-  },
-  {
-    "name": "Sir Bernard",
-    "surname": "Katz",
-    "born": "1911-03-26",
-    "died": "2003-04-20",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
-    "category": "medicine",
-    "year": "1970"
-  },
-  {
-    "name": "Ulf",
-    "surname": "von Euler",
-    "born": "1905-02-07",
-    "died": "1983-03-09",
-    "birthplace": "Sweden",
-    "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
-    "category": "medicine",
-    "year": "1970"
-  },
-  {
-    "name": "Julius",
-    "surname": "Axelrod",
-    "born": "1912-05-30",
-    "died": "2004-12-29",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the humoral transmitters in the nerve terminals and the mechanism for their storage, release and inactivation",
-    "category": "medicine",
-    "year": "1970"
-  },
-  {
-    "name": "Earl W.",
-    "surname": "Sutherland, Jr.",
-    "born": "1915-11-19",
-    "died": "1974-03-09",
-    "birthplace": "USA",
-    "motivation": "for his discoveries concerning the mechanisms of the action of hormones",
-    "category": "medicine",
-    "year": "1971"
-  },
-  {
-    "name": "Gerald M.",
-    "surname": "Edelman",
-    "born": "1929-07-01",
-    "died": "2014-05-17",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the chemical structure of antibodies",
-    "category": "medicine",
-    "year": "1972"
-  },
-  {
-    "name": "Rodney R.",
-    "surname": "Porter",
-    "born": "1917-10-08",
-    "died": "1985-09-06",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries concerning the chemical structure of antibodies",
-    "category": "medicine",
-    "year": "1972"
-  },
-  {
-    "name": "Karl",
-    "surname": "von Frisch",
-    "born": "1886-11-20",
-    "died": "1982-06-12",
-    "birthplace": "Austria",
-    "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
-    "category": "medicine",
-    "year": "1973"
-  },
-  {
-    "name": "Konrad",
-    "surname": "Lorenz",
-    "born": "1903-11-07",
-    "died": "1989-02-27",
-    "birthplace": "Austria",
-    "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
-    "category": "medicine",
-    "year": "1973"
-  },
-  {
-    "name": "Nikolaas",
-    "surname": "Tinbergen",
-    "born": "1907-04-15",
-    "died": "1988-12-21",
-    "birthplace": "the Netherlands",
-    "motivation": "for their discoveries concerning organization and elicitation of individual and social behaviour patterns",
-    "category": "medicine",
-    "year": "1973"
-  },
-  {
     "name": "Albert",
     "surname": "Claude",
     "born": "1898-08-24",
@@ -1108,86 +338,6 @@
     "motivation": "for their discoveries concerning the structural and functional organization of the cell",
     "category": "medicine",
     "year": "1974"
-  },
-  {
-    "name": "Christian",
-    "surname": "de Duve",
-    "born": "1917-10-02",
-    "died": "2013-05-04",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries concerning the structural and functional organization of the cell",
-    "category": "medicine",
-    "year": "1974"
-  },
-  {
-    "name": "George E.",
-    "surname": "Palade",
-    "born": "1912-11-19",
-    "died": "2008-10-07",
-    "birthplace": "Romania",
-    "motivation": "for their discoveries concerning the structural and functional organization of the cell",
-    "category": "medicine",
-    "year": "1974"
-  },
-  {
-    "name": "David",
-    "surname": "Baltimore",
-    "born": "1938-03-07",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
-    "category": "medicine",
-    "year": "1975"
-  },
-  {
-    "name": "Renato",
-    "surname": "Dulbecco",
-    "born": "1914-02-22",
-    "died": "2012-02-19",
-    "birthplace": "Italy",
-    "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
-    "category": "medicine",
-    "year": "1975"
-  },
-  {
-    "name": "Howard M.",
-    "surname": "Temin",
-    "born": "1934-12-10",
-    "died": "1994-02-09",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the interaction between tumour viruses and the genetic material of the cell",
-    "category": "medicine",
-    "year": "1975"
-  },
-  {
-    "name": "Baruch S.",
-    "surname": "Blumberg",
-    "born": "1925-07-28",
-    "died": "2011-04-05",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
-    "category": "medicine",
-    "year": "1976"
-  },
-  {
-    "name": "D. Carleton",
-    "surname": "Gajdusek",
-    "born": "1923-09-09",
-    "died": "2008-12-12",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning new mechanisms for the origin and dissemination of infectious diseases",
-    "category": "medicine",
-    "year": "1976"
-  },
-  {
-    "name": "Roger",
-    "surname": "Guillemin",
-    "born": "1924-01-11",
-    "died": "0000-00-00",
-    "birthplace": "France",
-    "motivation": "for their discoveries concerning the peptide hormone production of the brain",
-    "category": "medicine",
-    "year": "1977"
   },
   {
     "name": "Andrew V.",
@@ -1200,46 +350,6 @@
     "year": "1977"
   },
   {
-    "name": "Rosalyn",
-    "surname": "Yalow",
-    "born": "1921-07-19",
-    "died": "2011-05-30",
-    "birthplace": "USA",
-    "motivation": "for the development of radioimmunoassays of peptide hormones",
-    "category": "medicine",
-    "year": "1977"
-  },
-  {
-    "name": "Werner",
-    "surname": "Arber",
-    "born": "1929-06-03",
-    "died": "0000-00-00",
-    "birthplace": "Switzerland",
-    "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
-    "category": "medicine",
-    "year": "1978"
-  },
-  {
-    "name": "Daniel",
-    "surname": "Nathans",
-    "born": "1928-10-30",
-    "died": "1999-11-16",
-    "birthplace": "USA",
-    "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
-    "category": "medicine",
-    "year": "1978"
-  },
-  {
-    "name": "Hamilton O.",
-    "surname": "Smith",
-    "born": "1931-08-23",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for the discovery of restriction enzymes and their application to problems of molecular genetics",
-    "category": "medicine",
-    "year": "1978"
-  },
-  {
     "name": "Allan M.",
     "surname": "Cormack",
     "born": "1924-02-23",
@@ -1248,326 +358,6 @@
     "motivation": "for the development of computer assisted tomography",
     "category": "medicine",
     "year": "1979"
-  },
-  {
-    "name": "Godfrey N.",
-    "surname": "Hounsfield",
-    "born": "1919-08-28",
-    "died": "2004-08-12",
-    "birthplace": "United Kingdom",
-    "motivation": "for the development of computer assisted tomography",
-    "category": "medicine",
-    "year": "1979"
-  },
-  {
-    "name": "Baruj",
-    "surname": "Benacerraf",
-    "born": "1920-10-29",
-    "died": "2011-08-02",
-    "birthplace": "Venezuela",
-    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
-    "category": "medicine",
-    "year": "1980"
-  },
-  {
-    "name": "Jean",
-    "surname": "Dausset",
-    "born": "1916-10-19",
-    "died": "2009-06-06",
-    "birthplace": "France",
-    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
-    "category": "medicine",
-    "year": "1980"
-  },
-  {
-    "name": "George D.",
-    "surname": "Snell",
-    "born": "1903-12-19",
-    "died": "1996-06-06",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning genetically determined structures on the cell surface that regulate immunological reactions",
-    "category": "medicine",
-    "year": "1980"
-  },
-  {
-    "name": "Roger W.",
-    "surname": "Sperry",
-    "born": "1913-08-20",
-    "died": "1994-04-17",
-    "birthplace": "USA",
-    "motivation": "for his discoveries concerning the functional specialization of the cerebral hemispheres",
-    "category": "medicine",
-    "year": "1981"
-  },
-  {
-    "name": "David H.",
-    "surname": "Hubel",
-    "born": "1926-02-27",
-    "died": "2013-09-22",
-    "birthplace": "Canada",
-    "motivation": "for their discoveries concerning information processing in the visual system",
-    "category": "medicine",
-    "year": "1981"
-  },
-  {
-    "name": "Torsten N.",
-    "surname": "Wiesel",
-    "born": "1924-06-03",
-    "died": "0000-00-00",
-    "birthplace": "Sweden",
-    "motivation": "for their discoveries concerning information processing in the visual system",
-    "category": "medicine",
-    "year": "1981"
-  },
-  {
-    "name": "Sune K.",
-    "surname": "Bergstr\u00f6m",
-    "born": "1916-01-10",
-    "died": "2004-08-15",
-    "birthplace": "Sweden",
-    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
-    "category": "medicine",
-    "year": "1982"
-  },
-  {
-    "name": "Bengt I.",
-    "surname": "Samuelsson",
-    "born": "1934-05-21",
-    "died": "0000-00-00",
-    "birthplace": "Sweden",
-    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
-    "category": "medicine",
-    "year": "1982"
-  },
-  {
-    "name": "John R.",
-    "surname": "Vane",
-    "born": "1927-03-29",
-    "died": "2004-11-19",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries concerning prostaglandins and related biologically active substances",
-    "category": "medicine",
-    "year": "1982"
-  },
-  {
-    "name": "Barbara",
-    "surname": "McClintock",
-    "born": "1902-06-16",
-    "died": "1992-09-02",
-    "birthplace": "USA",
-    "motivation": "for her discovery of mobile genetic elements",
-    "category": "medicine",
-    "year": "1983"
-  },
-  {
-    "name": "Niels K.",
-    "surname": "Jerne",
-    "born": "1911-12-23",
-    "died": "1994-10-07",
-    "birthplace": "United Kingdom",
-    "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
-    "category": "medicine",
-    "year": "1984"
-  },
-  {
-    "name": "Georges J.F.",
-    "surname": "K\u00f6hler",
-    "born": "1946-04-17",
-    "died": "1995-03-01",
-    "birthplace": "Germany",
-    "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
-    "category": "medicine",
-    "year": "1984"
-  },
-  {
-    "name": "C\u00e9sar",
-    "surname": "Milstein",
-    "born": "1927-10-08",
-    "died": "2002-03-24",
-    "birthplace": "Argentina",
-    "motivation": "for theories concerning the specificity in development and control of the immune system and the discovery of the principle for production of monoclonal antibodies",
-    "category": "medicine",
-    "year": "1984"
-  },
-  {
-    "name": "Michael S.",
-    "surname": "Brown",
-    "born": "1941-04-13",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the regulation of cholesterol metabolism",
-    "category": "medicine",
-    "year": "1985"
-  },
-  {
-    "name": "Joseph L.",
-    "surname": "Goldstein",
-    "born": "1940-04-18",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the regulation of cholesterol metabolism",
-    "category": "medicine",
-    "year": "1985"
-  },
-  {
-    "name": "Stanley",
-    "surname": "Cohen",
-    "born": "1922-11-17",
-    "died": "2020-02-05",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of growth factors",
-    "category": "medicine",
-    "year": "1986"
-  },
-  {
-    "name": "Rita",
-    "surname": "Levi-Montalcini",
-    "born": "1909-04-22",
-    "died": "2012-12-30",
-    "birthplace": "Italy",
-    "motivation": "for their discoveries of growth factors",
-    "category": "medicine",
-    "year": "1986"
-  },
-  {
-    "name": "Susumu",
-    "surname": "Tonegawa",
-    "born": "1939-09-05",
-    "died": "0000-00-00",
-    "birthplace": "Japan",
-    "motivation": "for his discovery of the genetic principle for generation of antibody diversity",
-    "category": "medicine",
-    "year": "1987"
-  },
-  {
-    "name": "Sir James W.",
-    "surname": "Black",
-    "born": "1924-06-14",
-    "died": "2010-03-21",
-    "birthplace": "Scotland",
-    "motivation": "for their discoveries of important principles for drug treatment",
-    "category": "medicine",
-    "year": "1988"
-  },
-  {
-    "name": "Gertrude B.",
-    "surname": "Elion",
-    "born": "1918-01-23",
-    "died": "1999-02-21",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of important principles for drug treatment",
-    "category": "medicine",
-    "year": "1988"
-  },
-  {
-    "name": "George H.",
-    "surname": "Hitchings",
-    "born": "1905-04-18",
-    "died": "1998-02-27",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of important principles for drug treatment",
-    "category": "medicine",
-    "year": "1988"
-  },
-  {
-    "name": "J. Michael",
-    "surname": "Bishop",
-    "born": "1936-02-22",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discovery of the cellular origin of retroviral oncogenes",
-    "category": "medicine",
-    "year": "1989"
-  },
-  {
-    "name": "Harold E.",
-    "surname": "Varmus",
-    "born": "1939-12-18",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discovery of the cellular origin of retroviral oncogenes",
-    "category": "medicine",
-    "year": "1989"
-  },
-  {
-    "name": "Joseph E.",
-    "surname": "Murray",
-    "born": "1919-04-01",
-    "died": "2012-11-26",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease",
-    "category": "medicine",
-    "year": "1990"
-  },
-  {
-    "name": "E. Donnall",
-    "surname": "Thomas",
-    "born": "1920-03-15",
-    "died": "2012-10-20",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning organ and cell transplantation in the treatment of human disease",
-    "category": "medicine",
-    "year": "1990"
-  },
-  {
-    "name": "Erwin",
-    "surname": "Neher",
-    "born": "1944-03-20",
-    "died": "0000-00-00",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning the function of single ion channels in cells",
-    "category": "medicine",
-    "year": "1991"
-  },
-  {
-    "name": "Bert",
-    "surname": "Sakmann",
-    "born": "1942-06-12",
-    "died": "0000-00-00",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning the function of single ion channels in cells",
-    "category": "medicine",
-    "year": "1991"
-  },
-  {
-    "name": "Edmond H.",
-    "surname": "Fischer",
-    "born": "1920-04-06",
-    "died": "2021-08-27",
-    "birthplace": "China",
-    "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism",
-    "category": "medicine",
-    "year": "1992"
-  },
-  {
-    "name": "Edwin G.",
-    "surname": "Krebs",
-    "born": "1918-06-06",
-    "died": "2009-12-21",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning reversible protein phosphorylation as a biological regulatory mechanism",
-    "category": "medicine",
-    "year": "1992"
-  },
-  {
-    "name": "Richard J.",
-    "surname": "Roberts",
-    "born": "1943-09-06",
-    "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries of split genes",
-    "category": "medicine",
-    "year": "1993"
-  },
-  {
-    "name": "Phillip A.",
-    "surname": "Sharp",
-    "born": "1944-06-06",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of split genes",
-    "category": "medicine",
-    "year": "1993"
   },
   {
     "name": "Alfred G.",
@@ -1580,114 +370,214 @@
     "year": "1994"
   },
   {
-    "name": "Martin",
-    "surname": "Rodbell",
-    "born": "1925-12-01",
-    "died": "1998-12-07",
-    "birthplace": "USA",
-    "motivation": "for their discovery of G-proteins and the role of these proteins in signal transduction in cells",
-    "category": "medicine",
-    "year": "1994"
-  },
-  {
-    "name": "Edward B.",
-    "surname": "Lewis",
-    "born": "1918-05-20",
-    "died": "2004-07-21",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the genetic control of early embryonic development",
-    "category": "medicine",
-    "year": "1995"
-  },
-  {
-    "name": "Christiane",
-    "surname": "N\u00fcsslein-Volhard",
-    "born": "1942-10-20",
-    "died": "0000-00-00",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries concerning the genetic control of early embryonic development",
-    "category": "medicine",
-    "year": "1995"
-  },
-  {
-    "name": "Eric F.",
-    "surname": "Wieschaus",
-    "born": "1947-06-08",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning the genetic control of early embryonic development",
-    "category": "medicine",
-    "year": "1995"
-  },
-  {
-    "name": "Peter C.",
-    "surname": "Doherty",
-    "born": "1940-10-15",
-    "died": "0000-00-00",
-    "birthplace": "Australia",
-    "motivation": "for their discoveries concerning the specificity of the cell mediated immune defence",
-    "category": "medicine",
-    "year": "1996"
-  },
-  {
-    "name": "Rolf M.",
-    "surname": "Zinkernagel",
-    "born": "1944-01-06",
-    "died": "0000-00-00",
+    "name": "Albert",
+    "surname": "Gobat",
+    "born": "1843-05-21",
+    "died": "1914-03-16",
     "birthplace": "Switzerland",
-    "motivation": "for their discoveries concerning the specificity of the cell mediated immune defence",
-    "category": "medicine",
-    "year": "1996"
+    "motivation": "for his eminently practical administration of the Inter-Parliamentary Union",
+    "category": "peace",
+    "year": "1902"
   },
   {
-    "name": "Stanley B.",
-    "surname": "Prusiner",
-    "born": "1942-05-28",
+    "name": "Auguste",
+    "surname": "Beernaert",
+    "born": "1829-07-26",
+    "died": "1912-10-06",
+    "birthplace": "Belgium",
+    "motivation": "for their prominent position in the international movement for peace and arbitration",
+    "category": "peace",
+    "year": "1909"
+  },
+  {
+    "name": "Alfred",
+    "surname": "Fried",
+    "born": "1864-11-11",
+    "died": "1921-05-04",
+    "birthplace": "Austria",
+    "motivation": "for his effort to expose and fight what he considers to be the main cause of war, namely, the anarchy in international relations",
+    "category": "peace",
+    "year": "1911"
+  },
+  {
+    "name": "Aristide",
+    "surname": "Briand",
+    "born": "1862-03-28",
+    "died": "1932-03-07",
+    "birthplace": "France",
+    "motivation": "for their crucial role in bringing about the Locarno Treaty",
+    "category": "peace",
+    "year": "1926"
+  },
+  {
+    "name": "Arthur",
+    "surname": "Henderson",
+    "born": "1863-09-13",
+    "died": "1935-10-20",
+    "birthplace": "Scotland",
+    "motivation": "for his untiring struggle and his courageous efforts as Chairman of the League of Nations Disarmament Conference 1931-34",
+    "category": "peace",
+    "year": "1934"
+  },
+  {
+    "name": "American Friends Service Committee",
+    "surname": "",
+    "born": "1917-00-00",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for his discovery of Prions - a new biological principle of infection",
-    "category": "medicine",
-    "year": "1997"
+    "birthplace": "",
+    "motivation": "for their pioneering work in the international peace movement and compassionate effort to relieve human suffering, thereby promoting the fraternity between nations",
+    "category": "peace",
+    "year": "1947"
   },
   {
-    "name": "Robert F.",
-    "surname": "Furchgott",
-    "born": "1916-06-04",
-    "died": "2009-05-19",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
-    "category": "medicine",
-    "year": "1998"
+    "name": "Albert",
+    "surname": "Schweitzer",
+    "born": "1875-01-14",
+    "died": "1965-09-04",
+    "birthplace": "Germany (now France)",
+    "motivation": "for his altruism, reverence for life, and tireless humanitarian work which has helped making the idea of brotherhood between men and nations a living one",
+    "category": "peace",
+    "year": "1952"
   },
   {
-    "name": "Louis J.",
-    "surname": "Ignarro",
-    "born": "1941-05-31",
+    "name": "Albert",
+    "surname": "Lutuli",
+    "born": "1898-00-00",
+    "died": "1967-07-21",
+    "birthplace": "Southern Rhodesia (now Zimbabwe)",
+    "motivation": "for his non-violent struggle against apartheid",
+    "category": "peace",
+    "year": "1960"
+  },
+  {
+    "name": "Andrei",
+    "surname": "Sakharov",
+    "born": "1921-05-21",
+    "died": "1989-12-14",
+    "birthplace": "Russia",
+    "motivation": "for his struggle for human rights in the Soviet Union, for disarmament and cooperation between all nations",
+    "category": "peace",
+    "year": "1975"
+  },
+  {
+    "name": "Amnesty International",
+    "surname": "",
+    "born": "1961-00-00",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
-    "category": "medicine",
-    "year": "1998"
+    "birthplace": "",
+    "motivation": "for worldwide respect for human rights",
+    "category": "peace",
+    "year": "1977"
   },
   {
-    "name": "Ferid",
-    "surname": "Murad",
-    "born": "1936-09-14",
+    "name": "Anwar",
+    "surname": "al-Sadat",
+    "born": "1918-12-25",
+    "died": "1981-10-06",
+    "birthplace": "Egypt",
+    "motivation": "for jointly having negotiated peace between Egypt and Israel in 1978",
+    "category": "peace",
+    "year": "1978"
+  },
+  {
+    "name": "Anjez\u00eb Gonxhe",
+    "surname": "Bojaxhiu",
+    "born": "1910-08-26",
+    "died": "1997-09-05",
+    "birthplace": "Ottoman Empire (now North Macedonia)",
+    "motivation": "for her work for bringing help to suffering humanity",
+    "category": "peace",
+    "year": "1979"
+  },
+  {
+    "name": "Adolfo",
+    "surname": "P\u00e9rez Esquivel",
+    "born": "1931-11-26",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning nitric oxide as a signalling molecule in the cardiovascular system",
-    "category": "medicine",
-    "year": "1998"
+    "birthplace": "Argentina",
+    "motivation": "for being a source of inspiration to repressed people, especially in Latin America",
+    "category": "peace",
+    "year": "1980"
   },
   {
-    "name": "G\u00fcnter",
-    "surname": "Blobel",
-    "born": "1936-05-21",
-    "died": "2018-02-18",
-    "birthplace": "Germany (now Poland)",
-    "motivation": "for the discovery that proteins have intrinsic signals that govern their transport and localization in the cell",
-    "category": "medicine",
-    "year": "1999"
+    "name": "Alva",
+    "surname": "Myrdal",
+    "born": "1902-01-31",
+    "died": "1986-02-01",
+    "birthplace": "Sweden",
+    "motivation": "for their work for disarmament and nuclear and weapon-free zones",
+    "category": "peace",
+    "year": "1982"
+  },
+  {
+    "name": "Alfonso",
+    "surname": "Garc\u00eda Robles",
+    "born": "1911-03-20",
+    "died": "1991-09-02",
+    "birthplace": "Mexico",
+    "motivation": "for their work for disarmament and nuclear and weapon-free zones",
+    "category": "peace",
+    "year": "1982"
+  },
+  {
+    "name": "Aung San Suu Kyi",
+    "surname": "",
+    "born": "1945-06-19",
+    "died": "0000-00-00",
+    "birthplace": "Burma (now Myanmar)",
+    "motivation": "for her non-violent struggle for democracy and human rights",
+    "category": "peace",
+    "year": "1991"
+  },
+  {
+    "name": "Anatole",
+    "surname": "France",
+    "born": "1844-04-16",
+    "died": "1924-10-12",
+    "birthplace": "France",
+    "motivation": "in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament",
+    "category": "literature",
+    "year": "1921"
+  },
+  {
+    "name": "Andr\u00e9",
+    "surname": "Gide",
+    "born": "1869-11-22",
+    "died": "1951-02-19",
+    "birthplace": "France",
+    "motivation": "for his comprehensive and artistically significant writings, in which human problems and conditions have been presented with a fearless love of truth and keen psychological insight",
+    "category": "literature",
+    "year": "1947"
+  },
+  {
+    "name": "Albert",
+    "surname": "Camus",
+    "born": "1913-11-07",
+    "died": "1960-01-04",
+    "birthplace": "French Algeria (now Algeria)",
+    "motivation": "for his important literary production, which with clear-sighted earnestness illuminates the problems of the human conscience in our times",
+    "category": "literature",
+    "year": "1957"
+  },
+  {
+    "name": "Alexandr",
+    "surname": "Solzhenitsyn",
+    "born": "1918-12-11",
+    "died": "2008-08-03",
+    "birthplace": "Russia",
+    "motivation": "for the ethical force with which he has pursued the indispensable traditions of Russian literature",
+    "category": "literature",
+    "year": "1970"
+  },
+  {
+    "name": "Amartya",
+    "surname": "Sen",
+    "born": "1933-11-03",
+    "died": "0000-00-00",
+    "birthplace": "India",
+    "motivation": "for his contributions to welfare economics",
+    "category": "economics",
+    "year": "1998"
   },
   {
     "name": "Arvid",
@@ -1700,144 +590,74 @@
     "year": "2000"
   },
   {
-    "name": "Paul",
-    "surname": "Greengard",
-    "born": "1925-12-11",
-    "died": "2019-04-13",
+    "name": "Alan",
+    "surname": "Heeger",
+    "born": "1936-01-22",
+    "died": "0000-00-00",
     "birthplace": "USA",
-    "motivation": "for their discoveries concerning signal transduction in the nervous system",
-    "category": "medicine",
+    "motivation": "for the discovery and development of conductive polymers",
+    "category": "chemistry",
     "year": "2000"
   },
   {
-    "name": "Eric",
-    "surname": "Kandel",
-    "born": "1929-11-07",
-    "died": "0000-00-00",
-    "birthplace": "Austria",
-    "motivation": "for their discoveries concerning signal transduction in the nervous system",
-    "category": "medicine",
+    "name": "Alan",
+    "surname": "MacDiarmid",
+    "born": "1927-04-14",
+    "died": "2007-02-07",
+    "birthplace": "New Zealand",
+    "motivation": "for the discovery and development of conductive polymers",
+    "category": "chemistry",
     "year": "2000"
   },
   {
-    "name": "Leland",
-    "surname": "Hartwell",
-    "born": "1939-10-30",
+    "name": "A. Michael",
+    "surname": "Spence",
+    "born": "1943-00-00",
     "died": "0000-00-00",
     "birthplace": "USA",
-    "motivation": "for their discoveries of key regulators of the cell cycle",
-    "category": "medicine",
+    "motivation": "for their analyses of markets with asymmetric information",
+    "category": "economics",
     "year": "2001"
   },
   {
-    "name": "Tim",
-    "surname": "Hunt",
-    "born": "1943-02-19",
-    "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries of key regulators of the cell cycle",
-    "category": "medicine",
-    "year": "2001"
-  },
-  {
-    "name": "Sir Paul",
-    "surname": "Nurse",
-    "born": "1949-01-25",
-    "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries of key regulators of the cell cycle",
-    "category": "medicine",
-    "year": "2001"
-  },
-  {
-    "name": "Sydney",
-    "surname": "Brenner",
-    "born": "1927-01-13",
-    "died": "2019-04-05",
-    "birthplace": "South Africa",
-    "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
-    "category": "medicine",
-    "year": "2002"
-  },
-  {
-    "name": "H. Robert",
-    "surname": "Horvitz",
-    "born": "1947-05-08",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
-    "category": "medicine",
-    "year": "2002"
-  },
-  {
-    "name": "John E.",
-    "surname": "Sulston",
-    "born": "1942-03-27",
-    "died": "2018-03-06",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries concerning genetic regulation of organ development and programmed cell death'",
-    "category": "medicine",
-    "year": "2002"
-  },
-  {
-    "name": "Paul C.",
-    "surname": "Lauterbur",
-    "born": "1929-05-06",
-    "died": "2007-03-27",
-    "birthplace": "USA",
-    "motivation": "for their discoveries concerning magnetic resonance imaging",
-    "category": "medicine",
+    "name": "Alexei",
+    "surname": "Abrikosov",
+    "born": "1928-06-25",
+    "died": "2017-03-29",
+    "birthplace": "USSR (now Russia)",
+    "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
+    "category": "physics",
     "year": "2003"
   },
   {
-    "name": "Sir Peter",
-    "surname": "Mansfield",
-    "born": "1933-10-09",
-    "died": "2017-02-08",
+    "name": "Anthony J.",
+    "surname": "Leggett",
+    "born": "1938-03-26",
+    "died": "0000-00-00",
     "birthplace": "United Kingdom",
-    "motivation": "for their discoveries concerning magnetic resonance imaging",
-    "category": "medicine",
+    "motivation": "for pioneering contributions to the theory of superconductors and superfluids",
+    "category": "physics",
     "year": "2003"
   },
   {
-    "name": "Richard",
-    "surname": "Axel",
-    "born": "1946-07-02",
+    "name": "Aaron",
+    "surname": "Ciechanover",
+    "born": "1947-10-01",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
-    "category": "medicine",
+    "birthplace": "British Protectorate of Palestine (now Israel)",
+    "motivation": "for the discovery of ubiquitin-mediated protein degradation",
+    "category": "chemistry",
     "year": "2004"
   },
   {
-    "name": "Linda B.",
-    "surname": "Buck",
-    "born": "1947-01-29",
+    "name": "Avram",
+    "surname": "Hershko",
+    "born": "1937-12-31",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of odorant receptors and the organization of the olfactory system",
-    "category": "medicine",
+    "birthplace": "Hungary",
+    "motivation": "for the discovery of ubiquitin-mediated protein degradation",
+    "category": "chemistry",
     "year": "2004"
-  },
-  {
-    "name": "Barry J.",
-    "surname": "Marshall",
-    "born": "1951-09-30",
-    "died": "0000-00-00",
-    "birthplace": "Australia",
-    "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
-    "category": "medicine",
-    "year": "2005"
-  },
-  {
-    "name": "J. Robin",
-    "surname": "Warren",
-    "born": "1937-06-11",
-    "died": "0000-00-00",
-    "birthplace": "Australia",
-    "motivation": "for their discovery of the bacterium <i>Helicobacter pylori</i> and its role in gastritis and peptic ulcer disease",
-    "category": "medicine",
-    "year": "2005"
   },
   {
     "name": "Andrew Z.",
@@ -1850,384 +670,174 @@
     "year": "2006"
   },
   {
-    "name": "Craig C.",
-    "surname": "Mello",
-    "born": "1960-10-19",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discovery of RNA interference - gene silencing by double-stranded RNA",
-    "category": "medicine",
-    "year": "2006"
-  },
-  {
-    "name": "Mario R.",
-    "surname": "Capecchi",
-    "born": "1937-10-06",
-    "died": "0000-00-00",
-    "birthplace": "Italy",
-    "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
-    "category": "medicine",
-    "year": "2007"
-  },
-  {
-    "name": "Sir Martin J.",
-    "surname": "Evans",
-    "born": "1941-01-01",
-    "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
-    "category": "medicine",
-    "year": "2007"
-  },
-  {
-    "name": "Oliver",
-    "surname": "Smithies",
-    "born": "1925-06-23",
-    "died": "2017-01-10",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries of principles for introducing specific gene modifications in mice by the use of embryonic stem cells",
-    "category": "medicine",
-    "year": "2007"
-  },
-  {
-    "name": "Harald",
-    "surname": "zur Hausen",
-    "born": "1936-03-11",
-    "died": "0000-00-00",
-    "birthplace": "Germany",
-    "motivation": "for his discovery of human papilloma viruses causing cervical cancer",
-    "category": "medicine",
-    "year": "2008"
-  },
-  {
-    "name": "Fran\u00e7oise",
-    "surname": "Barr\u00e9-Sinoussi",
-    "born": "1947-07-30",
+    "name": "Albert",
+    "surname": "Fert",
+    "born": "1938-03-07",
     "died": "0000-00-00",
     "birthplace": "France",
-    "motivation": "for their discovery of human immunodeficiency virus",
-    "category": "medicine",
-    "year": "2008"
+    "motivation": "for the discovery of Giant Magnetoresistance",
+    "category": "physics",
+    "year": "2007"
   },
   {
-    "name": "Luc",
-    "surname": "Montagnier",
-    "born": "1932-08-18",
-    "died": "2022-02-08",
-    "birthplace": "France",
-    "motivation": "for their discovery of human immunodeficiency virus",
-    "category": "medicine",
-    "year": "2008"
-  },
-  {
-    "name": "Elizabeth H.",
-    "surname": "Blackburn",
-    "born": "1948-11-26",
-    "died": "0000-00-00",
-    "birthplace": "Australia",
-    "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
-    "category": "medicine",
-    "year": "2009"
-  },
-  {
-    "name": "Carol W.",
-    "surname": "Greider",
-    "born": "1961-04-15",
+    "name": "Al",
+    "surname": "Gore",
+    "born": "1948-03-31",
     "died": "0000-00-00",
     "birthplace": "USA",
-    "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
-    "category": "medicine",
-    "year": "2009"
+    "motivation": "for their efforts to build up and disseminate greater knowledge about man-made climate change, and to lay the foundations for the measures that are needed to counteract such change",
+    "category": "peace",
+    "year": "2007"
   },
   {
-    "name": "Jack W.",
-    "surname": "Szostak",
-    "born": "1952-11-09",
+    "name": "Ada E.",
+    "surname": "Yonath",
+    "born": "1939-06-22",
     "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for the discovery of how chromosomes are protected by telomeres and the enzyme telomerase",
-    "category": "medicine",
+    "birthplace": "British Mandate of Palestine (now Israel)",
+    "motivation": "for studies of the structure and function of the ribosome",
+    "category": "chemistry",
     "year": "2009"
   },
   {
-    "name": "Robert G.",
-    "surname": "Edwards",
-    "born": "1925-09-27",
-    "died": "2013-04-10",
-    "birthplace": "United Kingdom",
-    "motivation": "for the development of in vitro fertilization",
-    "category": "medicine",
+    "name": "Andre",
+    "surname": "Geim",
+    "born": "1958-10-21",
+    "died": "0000-00-00",
+    "birthplace": "Russia",
+    "motivation": "for groundbreaking experiments regarding the two-dimensional material graphene",
+    "category": "physics",
     "year": "2010"
   },
   {
-    "name": "Bruce A.",
-    "surname": "Beutler",
-    "born": "1957-12-29",
+    "name": "Akira",
+    "surname": "Suzuki",
+    "born": "1930-09-12",
+    "died": "0000-00-00",
+    "birthplace": "Japan",
+    "motivation": "for palladium-catalyzed cross couplings in organic synthesis",
+    "category": "chemistry",
+    "year": "2010"
+  },
+  {
+    "name": "Adam G.",
+    "surname": "Riess",
+    "born": "1969-12-16",
     "died": "0000-00-00",
     "birthplace": "USA",
-    "motivation": "for their discoveries concerning the activation of innate immunity",
-    "category": "medicine",
+    "motivation": "for the discovery of the accelerating expansion of the Universe through observations of distant supernovae",
+    "category": "physics",
     "year": "2011"
   },
   {
-    "name": "Jules A.",
-    "surname": "Hoffmann",
-    "born": "1941-08-02",
+    "name": "Alvin E.",
+    "surname": "Roth",
+    "born": "1951-12-18",
     "died": "0000-00-00",
-    "birthplace": "Luxembourg",
-    "motivation": "for their discoveries concerning the activation of innate immunity",
-    "category": "medicine",
-    "year": "2011"
+    "birthplace": "USA",
+    "motivation": "for the theory of stable allocations and the practice of market design",
+    "category": "economics",
+    "year": "2012"
   },
   {
-    "name": "Ralph M.",
-    "surname": "Steinman",
-    "born": "1943-01-14",
-    "died": "2011-09-30",
+    "name": "Arieh",
+    "surname": "Warshel",
+    "born": "1940-11-20",
+    "died": "0000-00-00",
+    "birthplace": "British Mandate of Palestine (now Israel)",
+    "motivation": "for the development of multiscale models for complex chemical systems",
+    "category": "chemistry",
+    "year": "2013"
+  },
+  {
+    "name": "Alice",
+    "surname": "Munro",
+    "born": "1931-07-10",
+    "died": "0000-00-00",
     "birthplace": "Canada",
-    "motivation": "for his discovery of the dendritic cell and its role in adaptive immunity",
-    "category": "medicine",
-    "year": "2011"
-  },
-  {
-    "name": "Sir John B.",
-    "surname": "Gurdon",
-    "born": "1933-10-02",
-    "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
-    "category": "medicine",
-    "year": "2012"
-  },
-  {
-    "name": "Shinya",
-    "surname": "Yamanaka",
-    "born": "1962-09-04",
-    "died": "0000-00-00",
-    "birthplace": "Japan",
-    "motivation": "for the discovery that mature cells can be reprogrammed to become pluripotent",
-    "category": "medicine",
-    "year": "2012"
-  },
-  {
-    "name": "James E.",
-    "surname": "Rothman",
-    "born": "1950-11-03",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
-    "category": "medicine",
+    "motivation": "master of the contemporary short story",
+    "category": "literature",
     "year": "2013"
   },
   {
-    "name": "Randy W.",
-    "surname": "Schekman",
-    "born": "1948-12-30",
+    "name": "Arthur B.",
+    "surname": "McDonald",
+    "born": "1943-08-29",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
-    "category": "medicine",
-    "year": "2013"
-  },
-  {
-    "name": "Thomas C.",
-    "surname": "S\u00fcdhof",
-    "born": "1955-12-22",
-    "died": "0000-00-00",
-    "birthplace": "Germany",
-    "motivation": "for their discoveries of machinery regulating vesicle traffic, a major transport system in our cells",
-    "category": "medicine",
-    "year": "2013"
-  },
-  {
-    "name": "John",
-    "surname": "O'Keefe",
-    "born": "1939-11-18",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
-    "category": "medicine",
-    "year": "2014"
-  },
-  {
-    "name": "May-Britt",
-    "surname": "Moser",
-    "born": "1963-01-04",
-    "died": "0000-00-00",
-    "birthplace": "Norway",
-    "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
-    "category": "medicine",
-    "year": "2014"
-  },
-  {
-    "name": "Edvard I.",
-    "surname": "Moser",
-    "born": "1962-04-27",
-    "died": "0000-00-00",
-    "birthplace": "Norway",
-    "motivation": "for their discoveries of cells that constitute a positioning system in the brain",
-    "category": "medicine",
-    "year": "2014"
-  },
-  {
-    "name": "William C.",
-    "surname": "Campbell",
-    "born": "1930-06-28",
-    "died": "0000-00-00",
-    "birthplace": "Ireland",
-    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
-    "category": "medicine",
+    "birthplace": "Canada",
+    "motivation": "for the discovery of neutrino oscillations, which shows that neutrinos have mass",
+    "category": "physics",
     "year": "2015"
   },
   {
-    "name": "Satoshi",
-    "surname": "\u014cmura",
-    "born": "1935-07-12",
+    "name": "Aziz",
+    "surname": "Sancar",
+    "born": "1946-09-08",
     "died": "0000-00-00",
-    "birthplace": "Japan",
-    "motivation": "for their discoveries concerning a novel therapy against infections caused by roundworm parasites",
-    "category": "medicine",
+    "birthplace": "Turkey",
+    "motivation": "for mechanistic studies of DNA repair",
+    "category": "chemistry",
     "year": "2015"
   },
   {
-    "name": "Youyou",
-    "surname": "Tu",
-    "born": "1930-12-30",
+    "name": "Angus",
+    "surname": "Deaton",
+    "born": "1945-10-19",
     "died": "0000-00-00",
-    "birthplace": "China",
-    "motivation": "for her discoveries concerning a novel therapy against Malaria",
-    "category": "medicine",
+    "birthplace": "Scotland",
+    "motivation": "for his analysis of consumption, poverty, and welfare",
+    "category": "economics",
     "year": "2015"
   },
   {
-    "name": "Yoshinori",
-    "surname": "Ohsumi",
-    "born": "1945-02-09",
-    "died": "0000-00-00",
-    "birthplace": "Japan",
-    "motivation": "for his discoveries of mechanisms for autophagy",
-    "category": "medicine",
-    "year": "2016"
-  },
-  {
-    "name": "Jeffrey C.",
-    "surname": "Hall",
-    "born": "1945-05-03",
-    "died": "0000-00-00",
+    "name": "Arthur",
+    "surname": "Ashkin",
+    "born": "1922-09-02",
+    "died": "2020-09-21",
     "birthplace": "USA",
-    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
-    "category": "medicine",
-    "year": "2017"
-  },
-  {
-    "name": "Michael",
-    "surname": "Rosbash",
-    "born": "1944-03-07",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
-    "category": "medicine",
-    "year": "2017"
-  },
-  {
-    "name": "Michael W.",
-    "surname": "Young",
-    "born": "1949-03-28",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of molecular mechanisms controlling the circadian rhythm",
-    "category": "medicine",
-    "year": "2017"
-  },
-  {
-    "name": "James P.",
-    "surname": "Allison",
-    "born": "1948-08-07",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
-    "category": "medicine",
+    "motivation": "for the optical tweezers and their application to biological systems",
+    "category": "physics",
     "year": "2018"
   },
   {
-    "name": "Tasuku",
-    "surname": "Honjo",
-    "born": "1942-01-27",
+    "name": "Akira",
+    "surname": "Yoshino",
+    "born": "1948-01-30",
     "died": "0000-00-00",
     "birthplace": "Japan",
-    "motivation": "for their discovery of cancer therapy by inhibition of negative immune regulation",
-    "category": "medicine",
-    "year": "2018"
-  },
-  {
-    "name": "William",
-    "surname": "Kaelin",
-    "born": "1957-11-23",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
-    "category": "medicine",
+    "motivation": "for the development of lithium-ion batteries",
+    "category": "chemistry",
     "year": "2019"
   },
   {
-    "name": "Peter",
-    "surname": "Ratcliffe",
-    "born": "1954-05-14",
+    "name": "Abiy",
+    "surname": "Ahmed Ali",
+    "born": "1976-08-15",
     "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
-    "category": "medicine",
+    "birthplace": "Ethiopia",
+    "motivation": "for his efforts to achieve peace and international cooperation, and in particular for his decisive initiative to resolve the border conflict with neighbouring Eritrea",
+    "category": "peace",
     "year": "2019"
   },
   {
-    "name": "Gregg",
-    "surname": "Semenza",
-    "born": "1956-07-12",
+    "name": "Abhijit",
+    "surname": "Banerjee",
+    "born": "1961-02-21",
     "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of how cells sense and adapt to oxygen availability",
-    "category": "medicine",
+    "birthplace": "India",
+    "motivation": "for their experimental approach to alleviating global poverty",
+    "category": "economics",
     "year": "2019"
   },
   {
-    "name": "Harvey",
-    "surname": "Alter",
-    "born": "1935-09-12",
+    "name": "Andrea",
+    "surname": "Ghez",
+    "born": "1965-06-16",
     "died": "0000-00-00",
     "birthplace": "USA",
-    "motivation": "for the discovery of Hepatitis C virus",
-    "category": "medicine",
+    "motivation": "for the discovery of a supermassive compact object at the centre of our galaxy",
+    "category": "physics",
     "year": "2020"
-  },
-  {
-    "name": "Michael",
-    "surname": "Houghton",
-    "born": "1949-00-00",
-    "died": "0000-00-00",
-    "birthplace": "United Kingdom",
-    "motivation": "for the discovery of Hepatitis C virus",
-    "category": "medicine",
-    "year": "2020"
-  },
-  {
-    "name": "Charles",
-    "surname": "Rice",
-    "born": "1952-08-25",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for the discovery of Hepatitis C virus",
-    "category": "medicine",
-    "year": "2020"
-  },
-  {
-    "name": "David",
-    "surname": "Julius",
-    "born": "1955-11-04",
-    "died": "0000-00-00",
-    "birthplace": "USA",
-    "motivation": "for their discoveries of receptors for temperature and touch",
-    "category": "medicine",
-    "year": "2021"
   },
   {
     "name": "Ardem",
@@ -2237,6 +847,16 @@
     "birthplace": "Lebanon",
     "motivation": "for their discoveries of receptors for temperature and touch",
     "category": "medicine",
+    "year": "2021"
+  },
+  {
+    "name": "Abdulrazak",
+    "surname": "Gurnah",
+    "born": "1948-00-00",
+    "died": "0000-00-00",
+    "birthplace": "",
+    "motivation": "for his uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents",
+    "category": "literature",
     "year": "2021"
   }
 ]

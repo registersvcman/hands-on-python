@@ -30,8 +30,9 @@ laureates_beginning_with_a = []
 # LinkedIn learner code here
 
 for lareate in laureates:
-    if lareate['category'][0] == "m":
+    if lareate['name'][0] == "A":
         laureates_beginning_with_a.append(lareate)
+
 
 print(json.dumps(laureates_beginning_with_a))
 
